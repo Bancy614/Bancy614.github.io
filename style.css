@@ -28,6 +28,7 @@ body{
   font-size: 13px;
   margin-left: 100px;
   padding-bottom: 15px;
+  text-align: center;
 }
 #survey-form{
   background-color:rgb(200, 100, 0);
